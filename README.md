@@ -6,7 +6,7 @@
 
 # <h1 align="center">**`AUTOR: Eduardo Gamal GAZZIRO`**</h1>
 
-<p align='center'>Desarrollo de un ***Data Analyst***
+<p align='center'>Desarrollo de un Data Analyst
 <p align='center'>
 <img src = 'https://m.foolcdn.com/media/dubs/original_images/Intro_slide_-_digital_stock_chart_going_up_-_source_getty.jpg' height = 200>
 <p>
@@ -26,7 +26,7 @@ El indice ROI es un indicador financiero utilizado para medir la rentabilidad de
 El indice de VIX sirve para medir la volatilidad del mercado, cuando hay una volatilidad alta se puede observar que corresponde con periodos de crisis (picos presentes en 2008 y en 2020).
 
 <p align='center'>
-<img src = 'PI02-Analytics\Imágenes\S&P500.jpg' height = 200>
+<img src = 'Imágenes\S&P500.jpg' height = 200>
 <p>
 
 **`KPI del S&P500`**
@@ -54,11 +54,11 @@ En resumen, el oro es considerado una herramienta de ahorro importante debido a 
 
 + Invertir en el S&P 500 puede ser una buena estrategia para muchos inversores debido a las siguientes razones:
 
-1- Diversificación: El S&P 500 incluye las 500 empresas más grandes y exitosas que cotizan en bolsa en los Estados Unidos. Al invertir en el S&P 500, los inversores tienen una exposición diversificada a una amplia variedad de sectores de la economía estadounidense, lo que puede ayudar a reducir el riesgo de la cartera.
-2- Rendimiento histórico: A lo largo del tiempo, el S&P 500 ha demostrado ser una inversión rentable. A pesar de las fluctuaciones del mercado a corto plazo, el S&P 500 ha generado un rendimiento promedio anualizado de alrededor del 10% durante varios decenios.
-3- Bajo costo: Invertir en el S&P 500 puede ser una opción de inversión de bajo costo. Existen varios fondos de índice que rastrean el rendimiento del S&P 500 y tienen bajas comisiones y gastos en comparación con los fondos gestionados activamente.
-4- Liquidez: El S&P 500 es uno de los índices bursátiles más populares y líquidos del mundo, lo que significa que hay un mercado activo de compradores y vendedores dispuestos a negociar en todo momento. Esto hace que sea fácil comprar o vender participaciones en fondos indexados que rastrean el índice.
-5- Cobertura contra la inflación: Las acciones que componen el S&P 500 tienen la capacidad de crecer y aumentar su valor con el tiempo, lo que puede ayudar a compensar la inflación y proteger el poder adquisitivo de los inversores a largo plazo.
++ Diversificación: El S&P 500 incluye las 500 empresas más grandes y exitosas que cotizan en bolsa en los Estados Unidos. Al invertir en el S&P 500, los inversores tienen una exposición diversificada a una amplia variedad de sectores de la economía estadounidense, lo que puede ayudar a reducir el riesgo de la cartera.
++ Rendimiento histórico: A lo largo del tiempo, el S&P 500 ha demostrado ser una inversión rentable. A pesar de las fluctuaciones del mercado a corto plazo, el S&P 500 ha generado un rendimiento promedio anualizado de alrededor del 10% durante varios decenios.
++ Bajo costo: Invertir en el S&P 500 puede ser una opción de inversión de bajo costo. Existen varios fondos de índice que rastrean el rendimiento del S&P 500 y tienen bajas comisiones y gastos en comparación con los fondos gestionados activamente.
++ Liquidez: El S&P 500 es uno de los índices bursátiles más populares y líquidos del mundo, lo que significa que hay un mercado activo de compradores y vendedores dispuestos a negociar en todo momento. Esto hace que sea fácil comprar o vender participaciones en fondos indexados que rastrean el índice.
++ Cobertura contra la inflación: Las acciones que componen el S&P 500 tienen la capacidad de crecer y aumentar su valor con el tiempo, lo que puede ayudar a compensar la inflación y proteger el poder adquisitivo de los inversores a largo plazo.
 
 En general, invertir en el S&P 500 puede ser una estrategia de inversión atractiva para los inversores que buscan una exposición diversificada a la economía estadounidense, un rendimiento histórico sólido, un bajo costo y liquidez, y una protección contra la inflación.
 + Si bien se puede invertir en cualquier momento, ya que uno es libre de comprar y vender cuando lo desee es verdad que tanto factores politicos (como confictos, o elleciones presidenciales), económicos (como una crisis), sociales(como cambios en el paradigma social), culturales o ambientales pueden influir y generar conciciones propicias para vender o comprar y tambien situaciones de incertidumbre que transforman las inversiones en situaciones de alto riesgo.
@@ -71,14 +71,14 @@ En general, es importante recordar que el mercado de valores es una inversión d
 **`Armado de Presentación`**
 
 + Presentación: es la portada de la expocisión.
-Enfoque: Enfoque Holistico, planteamiento de preguntas y que utilizaremos como base de datos.
-Objetivo: Presenta algunos aspectos del S&P500.
-Análisis de Volumen de Ventas: buscamos patrones en los momentos que las ventas han sido mas altos.
-Pérdidas: las crisis y cunto tiempo tomó recuperar sus valores antes de la crisis.
-ROI: ìndice ROI indica las ganancia que uno podría haber obtenido en un tiempo y con una inversión determinados.
-VIX: ìndice VIX es un ìdice de volatilidad.
-Comparación: compara el el S&P500 con el valor del oro y el Nikkei255
-Conclusión: Presenta los resultados finales.
++ Enfoque: Enfoque Holistico, planteamiento de preguntas y que utilizaremos como base de datos.
++ Objetivo: Presenta algunos aspectos del S&P500.
++ Análisis de Volumen de Ventas: buscamos patrones en los momentos que las ventas han sido mas altos.
++ Pérdidas: las crisis y cunto tiempo tomó recuperar sus valores antes de la crisis.
++ ROI: ìndice ROI indica las ganancia que uno podría haber obtenido en un tiempo y con una inversión determinados.
++ VIX: ìndice VIX es un ìdice de volatilidad.
++ Comparación: compara el el S&P500 con el valor del oro y el Nikkei255
++ Conclusión: Presenta los resultados finales.
 
 **`Conclusiones`**
 
